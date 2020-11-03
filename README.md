@@ -2,6 +2,8 @@
 
 This is the example of firebase login with mobile number/phone using OTP developed in Angular 9.
 
+<img src="src/assets/images/4baaa7dc-ffd5-4764-acdd-a8dc2b2326bb.png" />
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
 
 ## Development server
